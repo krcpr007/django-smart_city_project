@@ -1,0 +1,16 @@
+# .gitignore
+
+# Virtual environment
+venv/
+
+# Other common Python-related files
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE-specific files (e.g., PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Ignore any other files or directories specific to your project
+# Add them based on your project structure and requirements
